@@ -9,3 +9,5 @@
 7. git log
 8. git commit --amend
 9. git checkout -b rama-secundaria
+10. git branch -d rama-secundaria
+11. git branch
