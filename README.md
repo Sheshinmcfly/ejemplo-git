@@ -15,4 +15,5 @@
 13. git commit -am "Commit"
 14. git tag -a v1.0.0 -m "Primer Release"
 15. git tag ----> para revisar tag
-15. git clone https://github.com/Sheshinmcfly/ejemplo-git.git
+16. git clone https://github.com/Sheshinmcfly/ejemplo-git.git
+17. tremenda masterClass
