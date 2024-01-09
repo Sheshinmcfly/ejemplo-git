@@ -11,3 +11,4 @@
 9. git checkout -b rama-secundaria
 10. git branch -d rama-secundaria
 11. git branch
+12. git push
