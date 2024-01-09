@@ -12,3 +12,4 @@
 10. git branch -d rama-secundaria
 11. git branch
 12. git push
+13. git commit -am "Commit"
