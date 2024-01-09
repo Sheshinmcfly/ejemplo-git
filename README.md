@@ -13,3 +13,5 @@
 11. git branch
 12. git push
 13. git commit -am "Commit"
+14. git tag -a v1.0.0 -m "Primer Release"
+15. git tag ----> para revisar tag
