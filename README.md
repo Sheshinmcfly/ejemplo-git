@@ -7,3 +7,5 @@
 5. git reset .
 6. git status
 7. git log
+8. git commit --amend
+9. git checkout -b rama-secundaria
