@@ -6,4 +6,4 @@
 4. git add .
 5. git reset .
 6. git status
-7. 
+7. git log
